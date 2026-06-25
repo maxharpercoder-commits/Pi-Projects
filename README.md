@@ -7,9 +7,9 @@ Welcome to Pi-Projects! this is where I share my discoveries and code that I use
 ---
 
 ### Install:
-'wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash'
+’wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash’
 ##### Under the hood:
-'git clone https://github.com/Botspot/pi-apps && ~/pi-apps/install'
+’git clone https://github.com/Botspot/pi-apps && ~/pi-apps/install’
 ### Uninstall:
-'~/pi-apps/uninstall'
+’~/pi-apps/uninstall’
 for more information see https://pi-apps.io/install/
